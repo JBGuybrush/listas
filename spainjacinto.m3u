@@ -48,6 +48,12 @@ http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203795
 #EXTINF:-1 tvg-id="81" tvg-name="EUROSPORT HD" tvg-logo="https://i.imgur.com/eurosport-logo.png" group-title="Deportes",EUROSPORT HD
 http://87.120.179.187:8000/play/a02c
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD.1_spa 
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="ShareExt@PREMIUM✓SPORTS",EuroSport HD.2_spa
+http://185.189.225.157/EuroSport2/index.m3u8
+
 #EXTINF:-1 tvg-id="82" tvg-name="Max Sport 1 HD" tvg-logo="https://i.imgur.com/max-sport-logo.png" group-title="Deportes",Max Sport 1 HD
 http://87.120.179.187:8000/play/a00k
 
