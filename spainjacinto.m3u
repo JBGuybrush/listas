@@ -59,3 +59,6 @@ http://87.120.179.187:8000/play/a00k
 
 #EXTINF:-1 tvg-id="83" tvg-name="Redbull TV" tvg-logo="https://i.imgur.com/redbull-logo.png" group-title="Deportes",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Spain - Malaga Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCd3-NYoslM4KN99HFV4d9GA/live
