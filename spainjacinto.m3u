@@ -86,11 +86,10 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="24HorasInternacional.es" group-title="CanalesTV",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="28kanala.es@SD" group-title="CanalesTV",28 kanala
+#EXTINF:-1 tvg-id="28kanala.es@SD",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 
 #EXTINF:-1 tvg-id="101tvAntequera.es" http-referrer="https://www.101tv.es/antequera/" group-title="CanalesTV",101tv Antequera
-#EXTVLCOPT:http-referrer=https://www.101tv.es/antequera/
 https://www.streaming101tv.es:19360/antequera/antequera.m3u8
 
 #EXTINF:-1 tvg-id="101tvAxarquia.es" group-title="CanalesTV",101tv Axarquia (480p)
