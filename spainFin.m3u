@@ -92,7 +92,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Max Sport 1 HD" tvg-logo="https://i.imgur.com/max-sport-logo.png" group-title="Deportes",Max Sport 1 HD
 http://87.120.179.187:8000/play/a00k
 
-#EXTINF:-1 tvg-id="83" tvg-name="Redbull TV" group-title="Deportes",Redbull TV
+#EXTINF:-1 tvg-name="Redbull TV" group-title="Deportes",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 1 BE" group-title="Deportes",DAZN 1 BE
