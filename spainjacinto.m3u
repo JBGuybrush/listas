@@ -60,5 +60,5 @@ http://87.120.179.187:8000/play/a00k
 #EXTINF:-1 tvg-id="83" tvg-name="Redbull TV" tvg-logo="https://i.imgur.com/redbull-logo.png" group-title="Deportes",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="webcam_int" tvg-logo="https://www.mijas.es/wp-content/uploads/2021/03/escudo.png",Spain - Mijas
+#EXTINF:-1 group-title="webcam" tvg-name="Mijas Las Doradas" tvg-logo="https://www.mijas.es/wp-content/uploads/2021/03/escudo.png",Spain - Mijas
 https://livecam.meteo365.es/hls_live/mijas.m3u8
