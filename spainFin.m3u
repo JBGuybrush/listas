@@ -57,8 +57,6 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS
 http://179.51.136.19:8000/play/a0px/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="76" tvg-name="TYC SPORTS" tvg-logo="https://i.imgur.com/tyc-sports-logo.png" group-title="Deportes",TYC SPORTS
 http://179.51.136.19:8000/play/a1h0/index.m3u8
 
@@ -80,7 +78,7 @@ http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203769
 #EXTINF:-1 tvg-id="80" tvg-name="LIGA DE CAMPEONES" tvg-logo="https://i.imgur.com/champions-league-logo.png" group-title="Deportes",LIGA DE CAMPEONES
 http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203795
 
-#EXTINF:-1 tvg-id="81" tvg-name="EUROSPORT HD" tvg-logo="https://i.imgur.com/eurosport-logo.png" group-title="Deportes",EUROSPORT HD
+#EXTINF:-1 tvg-id="81" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="EUROSPORT HD" group-title="Deportes",EUROSPORT HD
 http://87.120.179.187:8000/play/a02c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="Deportes",EuroSport HD.1_spa 
@@ -92,21 +90,62 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Max Sport 1 HD" tvg-logo="https://i.imgur.com/max-sport-logo.png" group-title="Deportes",Max Sport 1 HD
 http://87.120.179.187:8000/play/a00k
 
-#EXTINF:-1 tvg-name="Redbull TV" group-title="Deportes",Redbull TV
+#EXTINF:-1 group-title="Deportes",Redbull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-name="DAZN 1 BE" group-title="Deportes",DAZN 1 BE
-http://185.236.230.212:9982/play/a09q
+#EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 1 HD GHD
+http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 HD" group-title="BEIN SPORT AR",BEIN SPORTS 1 HD
+http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 SD" group-title="BEIN SPORT AR",BEIN SPORTS 1 SD
+http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 2" tvg-name="BEIN SPORTS 2 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 2 HD GHD
+http://176.119.29.54/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" group-title="BEIN SPORT AR",BEIN SPORTS 2 HD
+http://176.119.29.54/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" group-title="BEIN SPORT AR",BEIN SPORTS 2 SD
+http://176.119.29.54/93650306-59d6-451e-bfc0-77fdb23bf6c9.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="BEIN SPORT AR",BEIN SPORTS 3 HD GHD
+http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="BEIN SPORT AR",BEIN SPORTS 3 HD
+http://176.119.29.54/29c30b88-b77a-46da-8f46-212ba02af5d7.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 SD" group-title="BEIN SPORT AR",BEIN SPORTS 3 SD
+http://176.119.29.54/9ce5782e-0660-4235-b5b1-83a8e2984426.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 4 HD GHD
+http://176.119.29.54/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD" group-title="BEIN SPORT AR",BEIN SPORTS 4 HD
+http://176.119.29.54/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 SD" group-title="BEIN SPORT AR",BEIN SPORTS 4 SD
+http://176.119.29.54/98017c4b-341f-4df4-8bb5-8bc0c57bff48.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 5 HD GHD
+http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 HD" group-title="BEIN SPORT AR",BEIN SPORTS 5 HD
+http://176.119.29.54/7f270b4b-0b5f-4405-a2a3-41cbe0902821.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5 SD" group-title="BEIN SPORT AR",beIN SPORTS 5 SD
+http://176.119.29.54/1fe232ea-d16f-4fc0-9f6d-741ca6cb60ba.m3u8
+#EXTINF:-1 tvg-id="BeIN Sports 6" tvg-name="BEIN SPORTS 6 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 6 HD GHD
+http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD" group-title="BEIN SPORT AR",BEIN SPORTS 6 HD
+http://176.119.29.54/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 6 SD" group-title="BEIN SPORT AR",beIN SPORTS 6 SD
+http://176.119.29.54/637be477-b933-49e7-a9d3-e1298ad2d6e2.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 7 HD GHD
+http://176.119.29.54/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD"  group-title="BEIN SPORT AR",BEIN SPORTS 7 HD
+http://176.119.29.54/8876003a-1185-48eb-95af-aac8814681dd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 7 SD" group-title="BEIN SPORT AR",beIN SPORTS 7 SD
+http://176.119.29.54/331f22a3-d7ab-4726-b4c1-a8462554c443.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 8 HD GHD
+http://176.119.29.54/c0acccc8-dd00-4dbe-8c03-af30b82b351b.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 HD" group-title="BEIN SPORT AR",BEIN SPORTS 8 HD
+http://176.119.29.54/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 8 SD" group-title="BEIN SPORT AR",beIN SPORTS 8 SD
+http://176.119.29.54/9ae31c68-bd25-49f8-964d-b2dff929d656.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 9 HD GHD
+http://176.119.29.54/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 HD" group-title="BEIN SPORT AR",BEIN SPORTS 9 HD
+http://176.119.29.54/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 9 SD" group-title="BEIN SPORT AR",beIN SPORTS 9 SD
+http://176.119.29.54/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
 
-#EXTINF:-1 group-title="Películas y Series",HBO XTREME
-http://200.92.227.238:8000/play/a0mu/index.m3u8
-
-#EXTINF:-1 group-title="Películas y Series",HBO XTREME
-http://181.78.106.127:9000/play/ca069/index.m3u8
-
-#EXTINF:-1 group-title="Películas y Series",HBO Plus HD
-http://181.78.106.127:9000/play/ca070/index.m3u8
-
-#EXTINF:-1 group-title="Películas y Series",HBO Familia HD
-http://38.180.133.31:8000/play/a0le/index.m3u8
 
