@@ -3,14 +3,8 @@
 #EXTINF:-1 tvg-name="Liga Hipermotion" group-title="Deportes",Liga Hipermotion
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
-#EXTINF:-1 tvg-name="Liga HipermotionHD" group-title="Deportes",Liga HipermotionHD
-http://177.93.46.163:8000/play/a01a
-
-#EXTINF:-1 tvg-id="65" tvg-name="ESPN" tvg-logo="https://i.imgur.com/espn-logo.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="65" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/espn-logo.png" group-title="Deportes",ESPN SD
 http://200.60.124.19:29000/play/a016
-
-#EXTINF:-1 tvg-id="66" tvg-name="ESPN" tvg-logo="https://i.imgur.com/espn-logo.png" group-title="Deportes",ESPN
-http://fortv.cc:8080/90820916/64752029/86765
 
 #EXTINF:-1 tvg-id="67" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/espn2-logo.png" group-title="Deportes",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
@@ -36,17 +30,11 @@ http://181.119.85.222:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="ESPN 6HD" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",ESPN 6HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",ESPN 7
-http://104.238.205.28:8989/278599_.m3u8
+#EXTINF:-1 tvg-name="ESPN 7" group-title="Deportes",ESPN 7
+http://177.93.46.163:8000/play/a01a
 
-#EXTINF:-1 tvg-name="ESPN 7HD" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",ESPN 7HD
-http://190.102.149.68:1234/play/a1aw/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 7SD" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",ESPN 7SD
-http://190.102.149.68:1234/play/a1ax/index.m3u8
-
-#EXTINF:-1 tvg-id="72" tvg-name="ESPN" tvg-logo="https://i.imgur.com/fox-sports-logo.png" group-title="Deportes",ESPN
-http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 7HD" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",ESPN 7HD
+http://181.188.216.5:18000/play/a0pg/index.m3u8
 
 #EXTINF:-1 tvg-id="73" tvg-name="DirectTV Sports" tvg-logo="https://i.imgur.com/directv-sports-logo.png" group-title="Deportes",DirectTV Sports
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
@@ -60,17 +48,20 @@ http://179.51.136.19:8000/play/a0px/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TYC SPORTS" tvg-logo="https://i.imgur.com/tyc-sports-logo.png" group-title="Deportes",TYC SPORTS
 http://179.51.136.19:8000/play/a1h0/index.m3u8
 
-#EXTINF:-1 tvg-id="77" tvg-name="FOX SPORTS" tvg-logo="https://i.imgur.com/liga1max-logo.png" group-title="Deportes",FOX SPORTS
+#EXTINF:-1 tvg-id="77" tvg-name="L1 MAX ARG" tvg-logo="https://i.imgur.com/liga1max-logo.png" group-title="Deportes",L1 MAX ARG
 http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/478009
 
-#EXTINF:-1 tvg-id="78" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",FOX SPORTS 2
+#EXTINF:-1 tvg-id="78" tvg-name="L1 MAX ARG" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",L1 MAX ARG
 http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/469158
 
-#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",FOX SPORTS 3
-http://181.188.216.5:18000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/fox-sports-logo.png" group-title="Deportes",FOX SPORTS 2
+http://181.78.106.127:9000/play/ca032/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX SPORTS Prem" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",FOX SPORTS Prem
-http://181.188.216.5:18000/play/a0pg/index.m3u8
+#EXTINF:-1 tvg-name="FOX SPORT PREMIUM" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",FS Premium
+http://104.238.205.28:8989/278599_.m3u8
+
+#EXTINF:-1 tvg-name="M+ Argentina" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",M+ Argentina
+http://190.102.149.68:1234/play/a1aw/index.m3u8
 
 #EXTINF:-1 tvg-id="79" tvg-name="MOVISTAR DEPORTE" tvg-logo="https://i.imgur.com/movistar-deporte-logo.png" group-title="Deportes",MOVISTAR DEPORTE
 http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203769
@@ -90,11 +81,11 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Max Sport 1 HD" tvg-logo="https://i.imgur.com/max-sport-logo.png" group-title="Deportes",Max Sport 1 HD
 http://87.120.179.187:8000/play/a00k
 
-#EXTINF:-1 group-title="Deportes",Redbull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Deportes",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 group-title="Deportes",MotorTV
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,Red Bull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?982608228290.m3u8
 
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-name="BEIN SPORTS 1 HD GHD" group-title="BEIN SPORT AR",BEIN SPORTS 1 HD GHD
 http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
@@ -152,3 +143,21 @@ http://176.119.29.54/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
 http://176.119.29.54/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
 
 
+#EXTINF:-1 group-title="USA SPORTS",HUB SPORTS 1
+http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280822&extension=ts&play_token=P2AVwN95oA
+#EXTINF:-1 group-title="USA SPORTS",HUB SPORTS 2
+http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280823&extension=ts&play_token=P2AVwN95oA
+#EXTINF:-1 group-title="USA SPORTS",HUB SPORTS 3
+http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280824&extension=ts&play_token=P2AVwN95oA
+#EXTINF:-1 group-title="USA SPORTS",HUB SPORTS 4
+http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280825&extension=ts&play_token=P2AVwN95oA
+#EXTINF:-1 group-title="USA SPORTS",HUB SPORTS 5
+http://195.128.24.55/play/live.php?mac=00:1A:79:A1:DE:E8&stream=280826&extension=ts&play_token=P2AVwN95oA
+#EXTINF:-1 group-title="USA SPORTS", TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="USA SPORTS", TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="USA SPORTS", TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="USA SPORTS",USA ESPN 2 HD
+http://ktv.im:8080/fullpack15months354/213907856/21369
